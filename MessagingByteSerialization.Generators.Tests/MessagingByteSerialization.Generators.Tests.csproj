@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Libs\MessagingByteSerialization.Abstractions\MessagingByteSerialization.Abstractions.csproj" />
-    <ProjectReference Include="..\..\Libs\MessagingByteSerialization.Generators\MessagingByteSerialization.Generators.csproj" />
+    <ProjectReference Include="..\MessagingByteSerialization.Abstractions\MessagingByteSerialization.Abstractions.csproj" />
+    <ProjectReference Include="..\MessagingByteSerialization.Generators\MessagingByteSerialization.Generators.csproj" />
   </ItemGroup>
 
   <ItemGroup>
