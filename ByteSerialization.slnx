@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="MessagingByteSerialization.Abstractions/MessagingByteSerialization.Abstractions.csproj" />
+  <Project Path="MessagingByteSerialization.Benchmark/MessagingByteSerialization.Benchmark.csproj" />
+  <Project Path="MessagingByteSerialization.Generators.Tests/MessagingByteSerialization.Generators.Tests.csproj" />
+  <Project Path="MessagingByteSerialization.Generators/MessagingByteSerialization.Generators.csproj" />
+</Solution>
