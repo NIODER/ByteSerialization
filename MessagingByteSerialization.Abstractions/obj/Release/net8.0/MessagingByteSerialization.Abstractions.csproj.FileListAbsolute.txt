@@ -1,0 +1,11 @@
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\bin\Release\net8.0\MessagingByteSerialization.Abstractions.deps.json
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\bin\Release\net8.0\MessagingByteSerialization.Abstractions.dll
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\bin\Release\net8.0\MessagingByteSerialization.Abstractions.pdb
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.AssemblyInfoInputs.cache
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.AssemblyInfo.cs
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.csproj.CoreCompileInputs.cache
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.dll
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\refint\MessagingByteSerialization.Abstractions.dll
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\MessagingByteSerialization.Abstractions.pdb
+C:\Git\pivotx\Libs\MessagingByteSerialization.Abstractions\obj\Release\net8.0\ref\MessagingByteSerialization.Abstractions.dll

@@ -1,0 +1,10 @@
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\bin\Debug\netstandard2.0\MessagingByteSerialization.Generators.deps.json
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\bin\Debug\netstandard2.0\MessagingByteSerialization.Generators.dll
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\bin\Debug\netstandard2.0\MessagingByteSerialization.Generators.pdb
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.csproj.AssemblyReference.cache
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.AssemblyInfoInputs.cache
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.AssemblyInfo.cs
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.csproj.CoreCompileInputs.cache
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.dll
+C:\Git\pivotx\Libs\MessagingByteSerialization.Generators\obj\Debug\netstandard2.0\MessagingByteSerialization.Generators.pdb

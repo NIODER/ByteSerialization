@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Git\\pivotx\\Libs\\MessagingByteSerialization.Abstractions\\MessagingByteSerialization.Abstractions.csproj": {}
+  },
+  "projects": {
+    "C:\\Git\\pivotx\\Libs\\MessagingByteSerialization.Abstractions\\MessagingByteSerialization.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\pivotx\\Libs\\MessagingByteSerialization.Abstractions\\MessagingByteSerialization.Abstractions.csproj",
+        "projectName": "MessagingByteSerialization.Abstractions",
+        "projectPath": "C:\\Git\\pivotx\\Libs\\MessagingByteSerialization.Abstractions\\MessagingByteSerialization.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\pivotx\\Libs\\MessagingByteSerialization.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "Avalonia": "11.3.8",
+            "Avalonia.Android": "11.3.8",
+            "Avalonia.Browser": "11.3.8",
+            "Avalonia.Controls.ColorPicker": "11.3.8",
+            "Avalonia.Controls.DataGrid": "11.3.8",
+            "Avalonia.Desktop": "11.3.8",
+            "Avalonia.Diagnostics": "11.3.8",
+            "Avalonia.Fonts.Inter": "11.3.8",
+            "Avalonia.LinuxFramebuffer": "11.3.8",
+            "Avalonia.Native": "11.3.8",
+            "Avalonia.ReactiveUI": "11.3.8",
+            "Avalonia.Skia": "11.3.8",
+            "Avalonia.Themes.Fluent": "11.3.8",
+            "Avalonia.Win32": "11.3.8",
+            "Avalonia.Xaml.Behaviors": "11.3.0.6",
+            "Avalonia.Xaml.Interactions": "11.3.0.6",
+            "BenchmarkDotNet": "0.15.6",
+            "CommunityToolkit.Mvvm": "8.4.0",
+            "coverlet.collector": "6.0.4",
+            "Mediator.Abstractions": "3.0.2",
+            "Mediator.SourceGenerator": "3.0.2",
+            "Microsoft.AspNetCore.ResponseCompression": "2.3.11",
+            "Microsoft.CodeAnalysis.Analyzers": "5.3.0",
+            "Microsoft.CodeAnalysis.CSharp": "5.3.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "5.3.0",
+            "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+            "Microsoft.Extensions.Configuration.Xml": "8.0.1",
+            "Microsoft.Extensions.DependencyInjection": "8.0.1",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.18",
+            "Microsoft.Extensions.Hosting": "8.0.1",
+            "Microsoft.Extensions.Hosting.Abstractions": "8.0.1",
+            "Microsoft.Extensions.Hosting.Systemd": "8.0.1",
+            "Microsoft.Extensions.Hosting.WindowsServices": "8.0.1",
+            "Microsoft.Extensions.Logging": "8.0.1",
+            "Microsoft.Extensions.Logging.Abstractions": "8.0.2",
+            "Microsoft.Extensions.Options": "8.0.2",
+            "Microsoft.NET.Test.Sdk": "17.14.1",
+            "Newtonsoft.Json": "13.0.4",
+            "NUnit": "3.13.3",
+            "NUnit.Analyzers": "3.3.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenCvSharp4": "4.11.0.20250507",
+            "OpenCvSharp4.runtime.win": "4.11.0.20250507",
+            "ReactiveUI.Avalonia": "11.3.8",
+            "Semi.Avalonia": "11.2.1.6",
+            "Semi.Avalonia.ColorPicker": "11.2.1.6",
+            "Semi.Avalonia.DataGrid": "11.2.1.6",
+            "Semi.Avalonia.TreeDataGrid": "11.0.10.2",
+            "Serilog": "4.3.1",
+            "Serilog.Extensions.Hosting": "8.0.0",
+            "Serilog.Settings.Configuration": "8.0.4",
+            "Serilog.Sinks.Async": "2.1.0",
+            "Serilog.Sinks.Avalonia.Browser": "2.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "System.Diagnostics.EventLog": "8.0.1",
+            "System.Diagnostics.PerformanceCounter": "8.0.1",
+            "System.IO.Ports": "8.0.0",
+            "System.Memory": "4.6.3",
+            "System.Runtime.CompilerServices.Unsafe": "6.1.2",
+            "System.Threading.Tasks.Extensions": "4.6.3",
+            "System.ValueTuple": "4.6.1",
+            "Xamarin.AndroidX.Core.SplashScreen": "1.0.1.1",
+            "xunit": "2.9.3",
+            "xunit.runner.visualstudio": "3.1.4"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
